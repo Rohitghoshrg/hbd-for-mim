@@ -1,3 +1,13 @@
-# happy-birthday
-Happy Birthday Website made using Html, css and JavaScript
-<a href="https://programmergaurav.github.io/happy-birthday/?name=Gaurav" target="blank">Click Here</a>
+# Happy Birthday Website
+
+A simple birthday wish website made with HTML, CSS, and JavaScript — open it in a browser and share it with the birthday person.
+
+## Tech
+
+- HTML
+- CSS
+- JavaScript
+
+## Author
+
+Rohit Ghosh
